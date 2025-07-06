@@ -4,7 +4,8 @@ import streamlit as st
 import pandas as pd
 
 # -------------------- API Setup --------------------
-openai.api_key = "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"
+openai.api_key = st.secrets["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"]
+
 openai.api_base = "https://openrouter.ai/api/v1"
 
 def ask_bot(prompt):
