@@ -1,6 +1,12 @@
-﻿"City,Date,Rainfall_mm"
-"Mumbai,2025-07-05,12.5"
-"Delhi,2025-07-05,0.0"
-"Nagpur,2025-07-05,7.2"
-"Chennai,2025-07-05,2.8"
-"Kolkata,2025-07-05,10.4"
+City,Avg Temp (°C),Avg Precipitation (mm)
+Mumbai,27.7,~185 (Jun–Jul avg ~920 / 5 = 184 mm) :contentReference[oaicite:1]{index=1}
+Pune,–,267.5 (June 2025) :contentReference[oaicite:2]{index=2}
+Delhi,–,87.8 (mid‑June 2025) :contentReference[oaicite:3]{index=3}
+Chennai,–,120 (Mar–May 2025) :contentReference[oaicite:4]{index=4}
+San Antonio,21.7 °C (69.1 °F),– (19.06″ ≈ 484 mm Jan–Jun 2025) :contentReference[oaicite:5]{index=5}
+Austin,–,>50 mm (July to date ~2″ above avg 50 mm) :contentReference[oaicite:6]{index=6}
+Cape Town,~15°C (Jul avg),117.8–164 mm (July norm) :contentReference[oaicite:7]{index=7}
+New York City,21.1 °C (May avg 69.5°F),~152 mm (6″ in May) :contentReference[oaicite:8]{index=8}
+Des Moines,–,116 mm (June avg monthly) :contentReference[oaicite:9]{index=9}
+Milwaukee,25 °C (June/July avg ~76–81°F high),– :contentReference[oaicite:10]{index=10}
+
