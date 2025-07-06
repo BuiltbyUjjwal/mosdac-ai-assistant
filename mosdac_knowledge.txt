@@ -1,0 +1,13 @@
+INSAT-3D is an Indian weather satellite used for meteorology and disaster warning. It carries a sounder and an imager.
+
+INSAT-3DR is its successor and includes improved weather imaging, vertical profiling, and data relay.
+
+Megha-Tropiques is used to study tropical water cycles and monsoons. It carries instruments like SAPHIR, SCARAB, and MADRAS.
+
+Scatterometers are instruments that measure wind speed and direction over the ocean.
+
+Rainfall data on MOSDAC is derived from INSAT, SCATSAT, and Megha-Tropiques and used for flood monitoring, forecasting, and agriculture.
+
+MOSDAC also provides cyclone alerts, temperature maps, and cloud movement animations.
+
+Use of MOSDAC includes disaster management, weather monitoring, early warning systems, agriculture planning, and climate study.
